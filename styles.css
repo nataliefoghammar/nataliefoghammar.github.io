@@ -1,0 +1,41 @@
+h1 {font-family: 'Exo', sans-serif;text-align: center;
+}
+h2 {font-family: 'Exo', sans-serif;text-align: center;
+}
+h3 {font-family: 'Exo', sans-serif;text-align: center;
+}
+h4 {font-family: 'Exo', sans-serif;text-align: center;
+}
+h5 {font-family: 'Exo', sans-serif;text-align: center;
+}
+h6 {font-family: 'Exo', sans-serif;text-align: center;
+}
+p {font-family: 'Exo', sans-serif;font-size: 12px; text-align: center; width: 40%;margin-left: 375px;
+}
+
+.header {
+  background-color: #cecece;
+  padding: 20px;
+}
+.bakgrund {
+  background-color: #f2f2f2;
+}
+
+.logo img {
+  width: 20%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.profilbild img {
+  width: 20%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.footer {
+  background-color: #cecece;
+  padding: 20px;
+}
