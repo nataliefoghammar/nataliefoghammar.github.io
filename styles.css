@@ -136,14 +136,19 @@ li a:hover {
 .botten {
   display: flex;
   justify-content: center;
-  background-color: #cecece;
+  background-color: black;
   padding: 50px;
 }
 
 .kontakta-mig-text {
 text-align:left;
-
+color: white;
 }
+
+.kontakta-mig-brodtext {
+  color: white;
+}
+
 .kontaktlank img {
 display: flex;
 justify-content: flex-end;
