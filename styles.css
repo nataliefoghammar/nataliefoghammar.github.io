@@ -1,11 +1,11 @@
 h1 {font-family: 'Exo', sans-serif;text-align: center;}
 h2 {font-family: 'Exo', sans-serif;text-align: center;}
-h3 {font-family: 'Exo', sans-serif;text-align: center;}
+h3 {font-family: 'Exo', sans-serif;text-align: center; font-size: 20px}
 h4 {font-family: 'Exo', sans-serif;text-align: center;}
 h5 {font-family: 'Exo', sans-serif;text-align: center;}
 h6 {font-family: 'Exo', sans-serif;text-align: center;}
 p {font-family: 'Exo', sans-serif;font-size: 12px; text-align: left; width: 90%;}
-li {font-family: 'Exo', sans-serif;text-align: center;}
+li {font-family: 'Exo', sans-serif;text-align: center; font-size: 14px;}
 a {font-family: 'Exo', sans-serif;font-size: 12px; text-align: left; width: 90%;}
 
 .header {
@@ -147,13 +147,15 @@ color: white;
 
 .kontakta-mig-brodtext {
   color: white;
+  width: 50%;
 }
 
-.kontaktlank img {
+.kontaktlank {
 display: flex;
 justify-content: flex-end;
 flex-direction: row;
-  width: 40px;
+width: 20px;
+}
 
 
 <-- för att göra sidan responsiv -->
